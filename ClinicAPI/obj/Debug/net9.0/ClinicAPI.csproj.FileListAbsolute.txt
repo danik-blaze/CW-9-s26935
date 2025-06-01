@@ -1,0 +1,16 @@
+C:\Users\user\RiderProjects\ClinicAPI\ClinicAPI\bin\Debug\net9.0\ClinicAPI.exe
+C:\Users\user\RiderProjects\ClinicAPI\ClinicAPI\bin\Debug\net9.0\ClinicAPI.deps.json
+C:\Users\user\RiderProjects\ClinicAPI\ClinicAPI\bin\Debug\net9.0\ClinicAPI.runtimeconfig.json
+C:\Users\user\RiderProjects\ClinicAPI\ClinicAPI\bin\Debug\net9.0\ClinicAPI.dll
+C:\Users\user\RiderProjects\ClinicAPI\ClinicAPI\bin\Debug\net9.0\ClinicAPI.pdb
+C:\Users\user\RiderProjects\ClinicAPI\ClinicAPI\obj\Debug\net9.0\ClinicAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\RiderProjects\ClinicAPI\ClinicAPI\obj\Debug\net9.0\ClinicAPI.AssemblyInfoInputs.cache
+C:\Users\user\RiderProjects\ClinicAPI\ClinicAPI\obj\Debug\net9.0\ClinicAPI.AssemblyInfo.cs
+C:\Users\user\RiderProjects\ClinicAPI\ClinicAPI\obj\Debug\net9.0\ClinicAPI.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\ClinicAPI\ClinicAPI\obj\Debug\net9.0\ClinicAPI.dll
+C:\Users\user\RiderProjects\ClinicAPI\ClinicAPI\obj\Debug\net9.0\refint\ClinicAPI.dll
+C:\Users\user\RiderProjects\ClinicAPI\ClinicAPI\obj\Debug\net9.0\ClinicAPI.pdb
+C:\Users\user\RiderProjects\ClinicAPI\ClinicAPI\obj\Debug\net9.0\ClinicAPI.genruntimeconfig.cache
+C:\Users\user\RiderProjects\ClinicAPI\ClinicAPI\obj\Debug\net9.0\ref\ClinicAPI.dll
+C:\Users\user\RiderProjects\ClinicAPI\ClinicAPI\obj\Debug\net9.0\ClinicAPI.csproj.AssemblyReference.cache
+C:\Users\user\RiderProjects\ClinicAPI\ClinicAPI\obj\Debug\net9.0\ClinicAPI.MvcApplicationPartsAssemblyInfo.cache
